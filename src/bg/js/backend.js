@@ -103,7 +103,7 @@ class ODHBack {
         let path = this.options.dictLibrary;
         //temporary path fix for v0.2
         if (path == 'encn_List') {
-            path = 'encn_Oxford, encn_Longman, encn_Collins, encn_Cambridge';
+            path = 'encn_Oxford, encn_Longman, encn_Collins, encn_Cambridge, jpcn_Hujiang';
             this.options.dictLibrary = path;
         }
 
