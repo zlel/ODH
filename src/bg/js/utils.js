@@ -17,7 +17,7 @@ function sanitizeOptions(options) {
         audio: '',
         preferredaudio: '0',
 
-        dictLibrary: 'encn_Oxford, encn_Longman, encn_Collins, encn_Cambridge',
+        dictLibrary: 'encn_Oxford, encn_Longman, encn_Collins, encn_Cambridge, jpcn_Hujiang',
         dictSelected: '',
         dictNamelist: [],
     };
